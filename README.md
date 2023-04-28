@@ -8,8 +8,9 @@
  <br/>
  <br/>
   
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center><h2>📚 STACKS 📚</h2></div>
 
+<br>
 <div align=center> 
  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
@@ -33,14 +34,27 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
-   <br/>
-   <br/>
+  
+  
+  <h2>😎 About Me 😎</h2></div>
  
-#### :pencil2: Study log
+<a href="https://instagram.com/jnbccert">
+<img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/jnbccert/"
+ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  
+  
+   <br/>
+   <br/>
+   
+
+
+<h2>💎 Github Stats 💎</h2>
  
   <br/>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@somm)
+![king-ggobuk GitHub stats](https://github-readme-stats.vercel.app/api?username=king-ggobuk&show_icons=true&theme=radical)  
+
+</a>
+ 
+
 </div>
